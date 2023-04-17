@@ -16,7 +16,7 @@ Na página inicial também é possível acessar minhas redes sociais através do
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para rodar o projeto é só clonar o repositório e executar o arquivo index.html em qualquer navegador.
+Para rodar o projeto é só acessar o link https://portfolio-git-main-ibogar.vercel.app de qualquer dispositivo.
 
 ## 📚 Mais informações do curso
 
